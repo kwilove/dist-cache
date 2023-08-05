@@ -1,0 +1,3 @@
+dist-cache:
+  storage: ${IAM_CACHE_STORAGE:Memory}  # 可选值在CacheStorageEnum中定义
+  region: ${IAM_CACHE_REGION:}  # 数据分区，用于数据隔离

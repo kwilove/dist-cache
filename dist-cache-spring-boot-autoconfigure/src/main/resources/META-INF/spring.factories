@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.AutoConfigureAfter=\
+  com.zjhuang.distcache.spring.boot.autoconfigure.DistCacheAutoConfiguration
